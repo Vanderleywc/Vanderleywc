@@ -29,3 +29,22 @@ a:hover{
 .textcard{
 	text-align: center;
 }
+.textblock{
+ 	margin: 10px;
+ 	padding: 10px;
+ 	text-align: right;
+}
+button{
+	background: #E5FFFC;
+	border: none;
+	size: ledger;
+	padding: 15px 20px;
+	font-family:'Roboto Serif', serif;
+	cursor: pointer;
+}
+button:hover{
+	opacity: 0.7;
+}
+.sprava{
+	text-align: center;
+}
